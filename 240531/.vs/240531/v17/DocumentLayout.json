@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DMU\\24C\\240531\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DMU\\24C\\240531\\240531-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:240531-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DMU\\24C\\240531\\240531-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:240531-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DMU\\24C\\240531\\240531-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:240531-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DMU\\24C\\240531\\240531-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:240531-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DMU\\24C\\240531\\240531-3\uC81C\uCD9C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:240531-3\uC81C\uCD9C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DMU\\24C\\240531\\240531-1\uC81C\uCD9C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:240531-1\uC81C\uCD9C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "240531-6.c",
+              "DocumentMoniker": "D:\\DMU\\24C\\240531\\240531-6.c",
+              "RelativeDocumentMoniker": "240531-6.c",
+              "ToolTip": "D:\\DMU\\24C\\240531\\240531-6.c",
+              "RelativeToolTip": "240531-6.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T00:20:38.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "240531-5.c",
+              "DocumentMoniker": "D:\\DMU\\24C\\240531\\240531-5.c",
+              "RelativeDocumentMoniker": "240531-5.c",
+              "ToolTip": "D:\\DMU\\24C\\240531\\240531-5.c",
+              "RelativeToolTip": "240531-5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T00:20:38.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "240531-4.c",
+              "DocumentMoniker": "D:\\DMU\\24C\\240531\\240531-4.c",
+              "RelativeDocumentMoniker": "240531-4.c",
+              "ToolTip": "D:\\DMU\\24C\\240531\\240531-4.c",
+              "RelativeToolTip": "240531-4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T00:20:38.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "240531-3\uC81C\uCD9C.c",
+              "DocumentMoniker": "D:\\DMU\\24C\\240531\\240531-3\uC81C\uCD9C.c",
+              "RelativeDocumentMoniker": "240531-3\uC81C\uCD9C.c",
+              "ToolTip": "D:\\DMU\\24C\\240531\\240531-3\uC81C\uCD9C.c",
+              "RelativeToolTip": "240531-3\uC81C\uCD9C.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T00:20:38.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "240531-2.c",
+              "DocumentMoniker": "D:\\DMU\\24C\\240531\\240531-2.c",
+              "RelativeDocumentMoniker": "240531-2.c",
+              "ToolTip": "D:\\DMU\\24C\\240531\\240531-2.c",
+              "RelativeToolTip": "240531-2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T00:20:38.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "240531-1\uC81C\uCD9C.c",
+              "DocumentMoniker": "D:\\DMU\\24C\\240531\\240531-1\uC81C\uCD9C.c",
+              "RelativeDocumentMoniker": "240531-1\uC81C\uCD9C.c",
+              "ToolTip": "D:\\DMU\\24C\\240531\\240531-1\uC81C\uCD9C.c",
+              "RelativeToolTip": "240531-1\uC81C\uCD9C.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T00:20:38.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

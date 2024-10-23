@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main(void)
+{
+	char c = '@';
+	
+	int m = 100;
+	
+	double x = 5.83;
+	
+
+	printf("변수명  주소값            저장값\n");
+	printf("-----------------------------------\n");
+	
+
+
+
+
+	return 0;
+}
